@@ -18,7 +18,6 @@
 <div class="badges">
   <img src = "Images/img8.png" width="500"/>
   <img src = "Images/img9.png" width="500"/>
-  <div class="column">
 </div>
 
 ---
